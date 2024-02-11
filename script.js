@@ -9,7 +9,7 @@ const allSongs = [
   {
     id: 0,
     title: "ROcks",
-    artist: "Phoenix",
+    artist: "Phoenix Sudip",
     duration: "2:03",
     src: "OVERSLEPT.mp3",
   },
